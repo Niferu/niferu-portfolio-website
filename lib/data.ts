@@ -42,7 +42,7 @@ export const projectsData = [
             "An engine written in Solidity that automates the asset listing process on decentralized exchanges, ensuring seamless and efficient creation of liquidity pools, including protection from rug pulls.",
         tags: ["Solidity", "Foundry", "Remix", "Makefile", "Uniswap"],
         imageUrl: memtize,
-        href: "https://github.com/Nlferu/memtize-engine",
+        href: "https://github.com/Niferu/memtize-engine",
     },
     {
         title: "Digital Rights Maykr",

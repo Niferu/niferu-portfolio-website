@@ -98,7 +98,7 @@ export default function Intro() {
                                borderDevil dark:hover:border-main bg-white/40 dark:bg-black/50 rounded-full focus:scale-110 hover:scale-[1.2]
                                hover:bg-white dark:hover:bg-darkyil active:scale-110 duration-custom ease-customBezier hover:translate-y-[-4px] backdrop-blur-[0.1rem]
                                border-darklord/20 hover:border-darklord/50"
-                    href="https://github.com/Nlferu"
+                    href="https://github.com/Niferu"
                     target="_blank"
                 >
                     <BsGithub />
